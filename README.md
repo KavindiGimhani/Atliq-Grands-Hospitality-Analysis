@@ -6,3 +6,6 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 - Create the metrics according to the metric list.
 - Create a dashboard according to the mock-up provided by stakeholders.
 - Create relevant insights that are not provided in the metric list/mock-up dashboard.
+
+# Provided Mock-up Dashboard
+![mock up dashboard_atliq grands](https://github.com/KavindiGimhani/Atliq-Grands-Hospitality-Analysis/assets/72389185/8065cd6e-42d4-4a7c-996a-7891c3838d58)
